@@ -51,8 +51,9 @@ Se você está começando a programar ou deseja ver como a IA pode acelerar sua 
 
 ➡️ **[Acesse o Guia de Estudos no Notion aqui!](https://impossible-song-21a.notion.site/Code-Coffee-2772a0c5255080d0a7b3e8ca1cc89f9d?source=copy_link)**
 <br>
-➡️ **[Ouça ao Podcast (16:09) aqui!](assets/audio/Início%20da%20Programação.mp4)**
-➡️ **[Assista ao Podcast (16:09) aqui!](assets/VideoPodcast/Início%20da%20Programação.mp4)**
+➡️ **[Ouça ao Podcast aqui!](assets/audio/Início%20da%20Programação.mp4)**
+<br>
+➡️ **[Assista ao Podcast aqui!](assets/VideoPodcast/Início%20da%20Programação.mp4)**
 ---
 
 <div align="center">
@@ -62,7 +63,7 @@ Se você está começando a programar ou deseja ver como a IA pode acelerar sua 
 
 ---
 
-**Desenvolvido por: [Mirella Wanessa]** | **Projeto Acadêmico: DIO.me (Aprofundamento)**
+**Desenvolvido por: Mirella Wanessa** | **Projeto Acadêmico: DIO.me (Aprofundamento)**
 
 ---
 
